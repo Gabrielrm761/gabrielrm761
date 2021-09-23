@@ -2,7 +2,7 @@
 
 <!-- 🔭 I’m currently working on ... -->
 - 🌱 Estou estudando Kotlin no momento
-- 📫 Contate-me no E-mail gabrielrm761@gmail.com
+- 📫 Contate-me no E-mail: gabrielrm761@gmail.com
 
 <div>
   <a href="https://github.com/Gabrielrm761">
