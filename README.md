@@ -1,7 +1,7 @@
 ### Olá, bem vindx, eu sou Gabriel Rocha 👋
 
 <!-- 🔭 I’m currently working on ... -->
-- 🌱 Estou estudando Kotlin no momento
+- 🌱 Focado no estudo de desenvolvimento Android com Kotlin
 - 📫 Contate-me no E-mail: gabrielrm761@gmail.com
 
 <div>
